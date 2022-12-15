@@ -46,10 +46,12 @@
 
 ◆シェイカー【HIKASEN】
 【注意事項】
-インポートする前に、コピーした後にメモ帳なので名前を置換して下さい。
+インポートする前に、コピーした後にメモ帳などで名前を置換して下さい。
 【HIKASEN→あなたのキャラのフルネーム】
 他のメンバーも使いたい？？
 七人分のプリセットを作りましょう。
+
+
 [Notes]
 Before importing, please replace the name as it is a notepad after copying.
 [HIKASEN → your character's full name]
