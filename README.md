@@ -44,18 +44,18 @@
 ~Lv2~{"Name":"◆連撃の三重奏【end】","Group":"◆絶バハ","ZoneLockH":[733],"DCond":5,"ElementsL":[{"Name":"safe","type":2,"refY":-5.54,"offY":-2.723,"radius":1.28,"color":3355508515,"thicc":5.0,"FillStep":3.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":17.0,"Match":"バハムート・プライムは「連撃の三重奏」の構え","MatchDelay":25.0}]}
 ```
 
-◆シェイカー【HIKASEN】  
-【注意事項】  
-インポートする前に、コピーした後にメモ帳などで名前を置換して下さい。  
-【HIKASEN→あなたのキャラのフルネーム】  
-他のメンバーも使いたい？？  
-七人分のプリセットを作りましょう。  
+◆シェイカー【HIKASEN】<br>
+【注意事項】<br>
+インポートする前に、コピーした後にメモ帳などで名前を置換して下さい。<br>
+【HIKASEN→あなたのキャラのフルネーム】<br>
+他のメンバーも使いたい？？<br>
+七人分のプリセットを作りましょう。<br>
 
-[Notes]  
-Before importing, please replace the name as it is a notepad after copying.  
-[HIKASEN → your character's full name]  
-Want to use other members?  
-Create presets for seven members.  
+[Notes]<br>
+Before importing, please replace the name as it is a notepad after copying.<br>
+[HIKASEN → your character's full name]<br>
+Want to use other members?<br>
+Create presets for seven members.<br>
 
 ```
 ~Lv2~{"Name":"◆シェイカー【HIKASEN】","Group":"◆絶バハ","ZoneLockH":[733],"DCond":5,"ElementsL":[{"Name":"HIKASEN","type":3,"refX":-1.0,"refZ":7.0,"offX":1.0,"offZ":5.0,"radius":0.0,"color":4278250239,"thicc":10.0,"refActorNameIntl":{"Jp":"HIKASEN"},"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"HIKASEN","type":3,"refX":1.0,"refZ":7.0,"offX":-1.0,"offZ":5.0,"radius":0.0,"color":4278250239,"thicc":10.0,"refActorNameIntl":{"Jp":"HIKASEN"},"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"HIKASEN","type":3,"refZ":7.5,"offZ":4.5,"radius":0.0,"color":4278250239,"thicc":10.0,"refActorNameIntl":{"Jp":"HIKASEN"},"includeRotation":true,"onlyVisible":true,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.0,"Match":"VFX vfx/lockon/eff/m0117_earth_shake_01s.avfx spawned on HIKASEN"}]}
