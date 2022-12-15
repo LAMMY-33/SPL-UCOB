@@ -45,19 +45,19 @@
 ```
 
 ◆シェイカー【HIKASEN】
-```
+``
 【注意事項】
 インポートする前に、コピーした後にメモ帳などで名前を置換して下さい。
 【HIKASEN→あなたのキャラのフルネーム】
 他のメンバーも使いたい？？
 七人分のプリセットを作りましょう。
 
-```
 [Notes]
 Before importing, please replace the name as it is a notepad after copying.
 [HIKASEN → your character's full name]
 Want to use other members?
 Create presets for seven members.
+``
 
 ```
 ~Lv2~{"Name":"◆シェイカー【HIKASEN】","Group":"◆絶バハ","ZoneLockH":[733],"DCond":5,"ElementsL":[{"Name":"HIKASEN","type":3,"refX":-1.0,"refZ":7.0,"offX":1.0,"offZ":5.0,"radius":0.0,"color":4278250239,"thicc":10.0,"refActorNameIntl":{"Jp":"HIKASEN"},"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"HIKASEN","type":3,"refX":1.0,"refZ":7.0,"offX":-1.0,"offZ":5.0,"radius":0.0,"color":4278250239,"thicc":10.0,"refActorNameIntl":{"Jp":"HIKASEN"},"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"HIKASEN","type":3,"refZ":7.5,"offZ":4.5,"radius":0.0,"color":4278250239,"thicc":10.0,"refActorNameIntl":{"Jp":"HIKASEN"},"includeRotation":true,"onlyVisible":true,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.0,"Match":"VFX vfx/lockon/eff/m0117_earth_shake_01s.avfx spawned on HIKASEN"}]}
